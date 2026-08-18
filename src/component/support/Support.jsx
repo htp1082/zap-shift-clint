@@ -34,6 +34,10 @@ const Support = () => {
             <p className="mt-5">Our dedicated support team is available around the clock to assist you with any questions, updates, or delivery concerns—anytime you need us.</p>
         </div>
       </div>
+
+      <div className="border-b-2 border-dotted mt-15 mb-10 border-secondary">
+
+      </div>
     </div>
   );
 };
