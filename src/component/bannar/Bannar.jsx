@@ -7,7 +7,7 @@ import bannar3 from '../../assets/banner/banner3.png'
 
 const Bannar = () => {
   return (
-    <Carousel>
+    <Carousel autoPlay={true} className="mt-4">
       <div>
         <img src={bannar1} />
       </div>
