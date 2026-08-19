@@ -13,12 +13,12 @@ const Brands = () => {
                 <h2 className='text-[28px] font-extrabold text-secondary'>We've helped thousands of sales teams</h2>
             </div>
 
-            <div className='flex items-center justify-center gap-10 mt-10'>
+            <div className='flex flex-col md:flex-row items-center justify-center gap-10 mt-10'>
                 <img src={casio} alt="Casio" />
-                  <img src={amazone} alt="Casio" />
-                    <img src={moonstar} alt="Casio" />
-                      <img src={star} alt="Casio" />
-                        <img src={starpeople} alt="Casio" />
+                  <img src={amazone} alt="amazone" />
+                    <img src={moonstar} alt="moonstar" />
+                      <img src={star} alt="star" />
+                        <img src={starpeople} alt="start people" />
                           
             </div>
             <div className='border-2 border-dotted border-secondary mt-20'>

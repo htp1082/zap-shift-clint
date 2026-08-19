@@ -17,7 +17,7 @@ const CustomerSatisfaction = () => {
                     <p className='text-[#DADADA]'>We offer the lowest delivery charge with the highest value along with 100% safety of your product. Pathao courier delivers your parcels in every corner of Bangladesh right on time.</p>
                 
                 {/* button */}
-                <div className='flex gap-5'>
+                <div className='flex flex-col md:flex-row gap-5'>
                     <button className='btn bg-primary rounded-2xl font-bold'>Become a Merchant</button>
                     <button className='btn bg-transparent rounded-2xl font-bold text-primary border-primary'>Earn with ZapShift Courier</button>
                 </div>

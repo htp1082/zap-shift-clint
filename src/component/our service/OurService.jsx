@@ -33,7 +33,7 @@ const OurService = () => {
           </div>
 
           {/* card 02 */}
-          <div className="card bg-base-100 w-96 shadow-sm bg-primary">
+          <div className="card w-96 shadow-sm bg-primary">
             <figure className="px-10 pt-10">
               <img src={service} alt="Shoes" className="rounded-xl" />
             </figure>

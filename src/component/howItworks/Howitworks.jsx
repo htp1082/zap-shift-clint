@@ -5,7 +5,7 @@ const Howitworks = () => {
   return (
     <div>
       <h2 className="text-secondary font-extrabold text-[32px]">How it Works</h2>
-      <div className="flex items-center gap-5 p-5">
+      <div className="flex flex-col md:flex-row items-center gap-5 p-5">
 
         {/* CARD 01 */}
         <div className="card w-96 bg-base-100 card-lg shadow-sm">
